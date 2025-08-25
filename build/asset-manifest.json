@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nirantar/static/css/main.1d64f91e.css",
-    "main.js": "/nirantar/static/js/main.2bd68429.js",
+    "main.js": "/nirantar/static/js/main.8657ec18.js",
     "index.html": "/nirantar/index.html",
     "main.1d64f91e.css.map": "/nirantar/static/css/main.1d64f91e.css.map",
-    "main.2bd68429.js.map": "/nirantar/static/js/main.2bd68429.js.map"
+    "main.8657ec18.js.map": "/nirantar/static/js/main.8657ec18.js.map"
   },
   "entrypoints": [
     "static/css/main.1d64f91e.css",
-    "static/js/main.2bd68429.js"
+    "static/js/main.8657ec18.js"
   ]
 }
